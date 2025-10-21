@@ -12,7 +12,7 @@
 - Excel
 
 ## My Resume
-[![View CV](https://img.shields.io/badge/View%20My%20CV-Download-blue?style=flat)](https://github.com/Calistacen/Calistacen/blob/main/My_Resume.pdf)
+📄 [View My CV](https://github.com/Calistacen/Calistacen/blob/main/My_Resume.pdf)
 
 
 <!--
