@@ -10,7 +10,14 @@
 - Machine & Deep Learning
 - Streamlit
 - Excel
+
+## My Resume
+[![View CV](https://img.shields.io/badge/View%20My%20CV-orange?style=for-the-badge)](https://github.com/Calistacen/Calistacen/blob/main/My_Resume.pdf)
+
+
 <!--
+
+
 **Calistacen/Calistacen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
