@@ -1,6 +1,6 @@
 ## Hi, I'm Calista!👋
 
-🎓 Undergraduate Data Science Student with a strong foundation in Python, SQL, data visualization, and machine learning. Experienced in delivering insights through analytical reports and developing solutions to support decision making. Beyond technical expertise, actively engaged in leadership and organizational roles thus skilled in communication, strategic planning, and problem-solving, with a proven ability to balance analytical precision with people oriented leadership. Seeking opportunities to apply both technical and organizational skills in real world business contexts, particularly in data driven decision making and innovation.
+🎓 Undergraduate Data Science Student with a strong foundation in Python, SQL, data analysis, data visualization, and machine learning. Experienced in delivering insights through analytical reports and developing solutions to support decision making. Beyond technical expertise, actively engaged in leadership and organizational roles thus skilled in communication, strategic planning, and problem-solving, with a proven ability to balance analytical precision with people oriented leadership. Seeking opportunities to apply both technical and organizational skills in real world business contexts, particularly in data driven decision making and innovation.
 
 ## Skills
 - Python
