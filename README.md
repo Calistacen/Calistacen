@@ -12,8 +12,8 @@
 - Excel
 
 ## My Resume
-📄 [View My CV](https://github.com/Calistacen/Calistacen/blob/main/My_Resume.pdf)
-
+📄 [View My CV](https://github.com/Calistacen/Calistacen/blob/main/CalistaLianardi_CV.pdf)
+📄 [My Complete Resume](https://github.com/Calistacen/Calistacen/blob/main/CalistaLianardi_Resume.pdf)
 
 <!--
 
